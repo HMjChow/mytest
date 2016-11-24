@@ -1,2 +1,2 @@
-learn about git£»
-just follow the steps.
+Git is distributed version control system;
+Git is free software;
